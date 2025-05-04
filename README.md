@@ -44,9 +44,6 @@ If you operate using an older Portal-Center, we encourage you to update.
 
 If you're too lazy to do either of the above, you can install an outdated and unsupported version of Portal-Center.
 
-```sh
-npm install @titaniumnetwork-dev/ultraviolet@1
-```
 
 ## Changelog
 
